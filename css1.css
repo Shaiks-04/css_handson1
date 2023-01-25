@@ -1,0 +1,37 @@
+h1{
+    color: red;
+}
+
+h3{
+    color:crimson;
+    font-style: italic;
+}
+
+li{
+    color: brown;
+}
+
+.listelt{
+    text-decoration: line-through;
+}
+.elt2{
+    background-color: yellow;
+}
+
+.elt3{
+    text-decoration: underline;
+}
+.spacing{
+    letter-spacing: 4px;
+
+}
+
+p{
+    color:brown;
+}
+
+a{
+    color:red;
+    text-decoration:none;
+    background-color: yellow;
+}
